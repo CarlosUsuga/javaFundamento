@@ -80,7 +80,7 @@ public class Main {
         }
     }
 
-    private static void nuevoTema(String title){
+    public static void nuevoTema(String title){
         System.out.println("\n===============> " + title + ": ");
     }
 }
